@@ -1,0 +1,49 @@
+body{
+  background: grey;
+}
+
+#header {
+  background: purple;
+  width: 1000px;
+  height: 100px;
+}
+
+.column {
+  background: white;
+  width: 100px;
+  height: 1050px;
+  float: left;
+}
+
+#body {
+  float: left;
+  width: 700px;
+  height: 950px;
+  background: red;
+  padding: 50px;
+ }
+
+.outbox{
+  clear: both;
+  align: center;
+  height: 250px;
+  width: 600px;
+  background: blue;
+  margin: 50px;
+}
+
+.small-box{
+  background: yellow;
+  float: left;
+  margin: 25px;
+  height: 150px;
+  width: 150px;
+}
+
+.big-box{
+  background: green;
+  float: right;
+  margin: 25px;
+  height: 200px;
+  width: 350px;
+}

@@ -1,0 +1,25 @@
+#header {
+  background: red;
+  width: 700px;
+  height: 100px;
+}
+
+.column {
+  background: yellow;
+  width: 100px;
+  height: 800px;
+  float: left;
+}
+
+#body {
+  float: left;
+  width: 500px;
+}
+#center {
+  background: blue;
+  height: 750px;
+}
+#footer {
+  background: green;
+  height: 50px;
+}
